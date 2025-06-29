@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN project.<br>🌱 I’m currently learning Python.<br>
+🔭 I’m currently working on MERN project.<br>🌱 I’m currently working on Python project.<br>
 
 
 # 💻 Tech Stack:
